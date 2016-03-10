@@ -1,0 +1,27 @@
+---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
+description: "Als designer is het mijn taak om ervoor te zorgen dat iets er niet alleen mooi uitziet, maar ook dat het goed werkt. Veel of weinig of content, het maakt niet uit. Het is belangrijk dat de visie van de client wordt geborgd en een intuïtieve ervaring wordt gecreëerd voor de gebruiker. Simplicity rules.\_Dat is wat ik doe."
+datePublished: '2016-03-10T10:52:32.743Z'
+dateModified: '2016-03-10T10:47:16.356Z'
+title: Simplicity rules
+author: []
+sourcePath: _posts/2016-03-10-simplicity-rules.md
+published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+_type: Blurb
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8582b644-5aca-4bc3-8674-4b185057fed3.jpg)
+
+Als designer is het mijn taak om ervoor te zorgen dat iets er niet alleen mooi uitziet, maar ook dat het goed werkt. Veel of weinig of content, het maakt niet uit. Het is belangrijk dat de visie van de client wordt geborgd en een intuïtieve ervaring wordt gecreëerd voor de gebruiker. Simplicity rules. Dat is wat ik doe.
