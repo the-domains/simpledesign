@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Als designer is het mijn taak om ervoor te zorgen dat iets er niet alleen mooi uitziet, maar ook dat het goed werkt. Veel of weinig of content, het maakt niet uit. Het is belangrijk dat de visie van de client wordt geborgd en een intuïtieve ervaring wordt gecreëerd voor de gebruiker. Simplicity rules.\_Dat is wat ik doe."
-datePublished: '2016-03-10T10:52:32.743Z'
-dateModified: '2016-03-10T10:47:16.356Z'
+datePublished: '2016-03-10T11:29:05.913Z'
+dateModified: '2016-03-10T10:53:34.460Z'
 title: Simplicity rules
 author: []
 sourcePath: _posts/2016-03-10-simplicity-rules.md
