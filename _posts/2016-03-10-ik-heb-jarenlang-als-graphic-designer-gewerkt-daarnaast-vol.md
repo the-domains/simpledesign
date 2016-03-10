@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Ik heb jarenlang als graphic designer gewerkt. Daarnaast volg ik de laatste design trends en heb ik onlangs een opleiding in UX design afgerond.\_"
-datePublished: '2016-03-10T13:04:21.935Z'
-dateModified: '2016-03-10T12:57:16.288Z'
+datePublished: '2016-03-10T13:10:59.494Z'
+dateModified: '2016-03-10T13:04:30.871Z'
 title: About me
 author: []
+sourcePath: _posts/2016-03-10-ik-heb-jarenlang-als-graphic-designer-gewerkt-daarnaast-vol.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-ik-heb-jarenlang-als-graphic-designer-gewerkt-daarnaast-vol.md
-published: true
 url: ik-heb-jarenlang-als-graphic-designer-gewerkt-daarnaast-vol/index.html
 _type: WebPage
 
