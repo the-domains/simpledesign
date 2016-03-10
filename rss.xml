@@ -2,14 +2,23 @@
     <channel>
         <title><![CDATA[Simple Design]]></title>
         <description><![CDATA[Simple Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simpledesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 13:47:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 13:51:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simpledesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Smartphones en tablets zijn niet meer weg te denken. Tegenwoordig kun je maar beter eerst voor het mobiele platform ontwerpen dan voor desktops. Een beetje UI/UX Designer doet natuurlijk beiden.
+
+Voor een bedrijf dat zich richt op speciale voettherapieën waarbij een techniek wordt toegepast die men heeft opgedaan in Brazilië heb ik zowel een website ontworpen voor het mobiele platform als je reguliere desktop. Rust, 'earthy colors' en modern waren de steekwoorden om de website van RIO Reflex tot stand te brengen.</p>]]></description>
+            <link>https://thegrid.ai/simpledesign/2897a048-201c-48ff-9ce0-504aa2a26d3e/index.html</link>
+            <guid isPermaLink="false">2897a048-201c-48ff-9ce0-504aa2a26d3e</guid>
+            <pubDate>Thu, 10 Mar 2016 13:50:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Simplicity rules]]></title>
             <description><![CDATA[<article><h1>Simplicity rules</h1><p>Als designer is het mijn taak om ervoor te zorgen dat iets er niet alleen mooi uitziet, maar ook dat het goed werkt. Veel of weinig of content, het maakt niet uit. Het is belangrijk dat de visie van de client wordt geborgd en een intuïtieve ervaring wordt gecreëerd voor de gebruiker. Eenvoud werkt dan vaak het beste. Simplicity rules. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42e354a90aa729f66d1cc5124bf1b2e1d62f7dd0.jpg"></article>]]></description>
-            <link>undefinedsimplicity-rules/index.html</link>
+            <link>https://thegrid.ai/simpledesign/simplicity-rules/index.html</link>
             <guid isPermaLink="false">3c0f35c9-466b-481b-b85f-ad89b50af383</guid>
             <pubDate>Thu, 10 Mar 2016 13:47:26 GMT</pubDate>
         </item>
