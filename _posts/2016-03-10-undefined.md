@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-03-10T12:05:14.464Z'
-dateModified: '2016-03-10T12:05:12.076Z'
+description: ''
+datePublished: '2016-03-10T12:06:48.337Z'
+dateModified: '2016-03-10T12:05:22.798Z'
 title: Portfolio
 author: []
 authors: []
