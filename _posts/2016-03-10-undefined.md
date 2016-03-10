@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Smartphones en tablets zijn niet meer weg te denken. Tegenwoordig kun je maar beter eerst voor het mobiele platform ontwerpen dan voor desktops. Een beetje UI/UX Designer doet natuurlijk beiden.
-datePublished: '2016-03-10T13:04:31.388Z'
-dateModified: '2016-03-10T12:57:48.903Z'
+datePublished: '2016-03-10T13:11:06.605Z'
+dateModified: '2016-03-10T13:04:40.096Z'
 title: Portfolio
 author: []
 sourcePath: _posts/2016-03-10-undefined.md
